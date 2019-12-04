@@ -1,4 +1,4 @@
-#include "Core.hpp"
+#include "../includes/Core.hpp"
 
 Core::Core(char const *pathName)
 {

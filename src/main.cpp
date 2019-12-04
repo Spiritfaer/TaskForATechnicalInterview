@@ -1,4 +1,4 @@
-#include "Core.hpp"
+#include "../includes/Core.hpp"
 
 int main(int argc, char **argv)
 {
